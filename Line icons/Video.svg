@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Video</title>
+    <g id="Video" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="Vector" transform="translate(3, 6)" stroke="#FFFFFF" stroke-width="1.5">
+            <path d="M4,0 L9,0 C11.2091389,0 13,1.79086104 13,4 L13,4.125 L14.9399997,2.91199992 C15.5565377,2.52666252 16.3336277,2.5062588 16.969538,2.8587108 C17.6054475,3.21116316 18,3.88094832 18,4.608 L18,7.392 C18.0014584,8.1197676 17.6074743,8.7908856 16.9712894,9.1443216 C16.335105,9.4977576 15.5571461,9.47771928 14.9399997,9.0919998 L13,7.875 L13,8 C13,10.2091392 11.2091389,12 9,12 L4,12 C1.7908609,12 0,10.2091392 0,8 L0,4 C0,1.79086104 1.7908609,0 4,0 Z" id="Vector-16" stroke-linejoin="round"></path>
+            <path d="M6.5,8 C5.39543052,8 4.5,7.10456944 4.5,6 C4.5,4.89543052 5.39543052,4 6.5,4 C7.60456944,4 8.5,4.89543052 8.5,6 C8.5,6.53043292 8.2892864,7.0391408 7.9142136,7.4142136 C7.5391408,7.7892864 7.03043292,8 6.5,8 Z" id="Vector-17" stroke-linejoin="round"></path>
+            <line x1="13" y1="4.125" x2="13" y2="7.875" id="Vector-18"></line>
+        </g>
+    </g>
+</svg>
